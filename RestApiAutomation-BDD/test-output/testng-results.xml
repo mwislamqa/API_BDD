@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T14:36:02 EDT" name="Default suite" finished-at="2024-09-26T14:36:06 EDT" duration-ms="3772">
+    <groups>
+    </groups>
+    <test started-at="2024-09-26T14:36:02 EDT" name="Default test" finished-at="2024-09-26T14:36:06 EDT" duration-ms="3772">
+      <class name="postMethod.PostRequest">
+        <test-method is-config="true" signature="tokenGenerate()[pri:0, instance:postMethod.PostRequest@6a4f1a55]" started-at="2024-09-26T14:36:02 EDT" name="tokenGenerate" finished-at="2024-09-26T14:36:02 EDT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tokenGenerate -->
+        <test-method signature="bererToken()[pri:0, instance:postMethod.PostRequest@6a4f1a55]" started-at="2024-09-26T14:36:03 EDT" name="bererToken" finished-at="2024-09-26T14:36:06 EDT" duration-ms="3643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bererToken -->
+      </class> <!-- postMethod.PostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
